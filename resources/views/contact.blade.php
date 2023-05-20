@@ -46,22 +46,42 @@
                 @csrf
                 <div class="ud-form-group">
                   <label for="fullName">Full Name*</label>
-                  <input type="text" name="txtName" id="txtName" placeholder="John Smith"/>
+                  <input type="text" name="txtName" id="txtName" placeholder="John Smith" value="{{old('txtName')}}"/>
+                  <span class="text-danger">
+                    @error('txtName')
+                      {{$message}}
+                    @enderror
+                  </span>
                 </div>
                 <div class="ud-form-group">
                   <label for="email">Email*</label>
-                  <input type="email" name="txtEmail" id="txtEmail" placeholder="example@yourmail.com"/>
+                  <input type="email" name="txtEmail" id="txtEmail" placeholder="example@yourmail.com" value="{{old('txtEmail')}}"/>
+                  <span class="text-danger">
+                    @error('txtEmail')
+                        {{$message}}
+                    @enderror
+                  </span>
                 </div>
                 <div class="ud-form-group">
                   <label for="phone">Phone*</label>
-                  <input type="text" name="txtPhone" id="txtPhone" placeholder="+64 XXX XXX XXX"/>
+                  <input type="text" name="txtPhone" id="txtPhone" placeholder="0 XXX XXX XXX" value="{{old('txtPhone')}}"/>
+                  <span class="text-danger">
+                    @error('txtPhone')
+                        {{$message}}
+                    @enderror
+                  </span>
                 </div>
                 <div class="ud-form-group">
                   <label for="message">Message*</label>
-                  <textarea name="txtMsg" id="txtMsg" rows="1" placeholder="type your message here"></textarea>
+                  <textarea name="txtMsg" id="txtMsg" rows="1" placeholder="type your message here">{{old('txtMsg')}}</textarea>
+                  <span class="text-danger">
+                    @error('txtMsg')
+                        {{$message}}
+                    @enderror
+                  </span>
                 </div>
                 <div class="ud-form-group mb-0">
-                 <button type="submit" class="ud-main-btn" id="btn">Send Message</button>
+                 <button type="submit" class="ud-main-btn" name="btnSubmit" id="btn">Send Message</button>
                 </div>
               </form>
             </div>
@@ -70,26 +90,6 @@
       </div>
     </section>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
-    <script>
-      $(document).ready(function(){
-        $('#btn').on("click",function(){
-          var name= $("#txtName").val();
-          var mail= $("#txtEmail").val();
-          var phone= $("#txtPhone").val();
-          var qry= $("#txtMsg").val();
-          var data = {name:name,mail:mail,phone:phone,qry:qry};
-          alert(qry);
-          $.ajax({
-            type: "GET",
-            url: "/email",
-            data: JSON.stringify(data),
-            dataType: "json",
-            success: function (res) {
-              response.JSON.
-            },
-          });
-        });
-      });
-     </script>
     <!-- ====== Contact End ====== -->
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@10.16.6/dist/sweetalert2.all.min.js"></script>
     @endsection

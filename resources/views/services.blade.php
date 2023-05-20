@@ -27,9 +27,6 @@
                 Round-the-clock peace of mind with site trained, industry experienced personnel totally focused on your security at your location.
                 Formalised shift transitions logged via Control Centre.
                 </p>
-                <a href="javascript:void(0)" class="ud-feature-link">
-                  Learn More
-                </a>
               </div>
             </div>
           </div>
@@ -44,9 +41,6 @@
                 Nobody wants to feel security is ‘breathing down their neck’ at major events or attractions.
                 Our team leaders ensure every rostered member on duty respects the unique dynamic of major entertainment events.
                 </p>
-                <a href="javascript:void(0)" class="ud-feature-link">
-                  Learn More
-                </a>
               </div>
             </div>
           </div>
@@ -61,9 +55,6 @@
                 A unique precinct focused patrols provide unparalleled response performance and consistent visibility.
                 Always on hand; always in their dedicated area; always ready to react.
                 </p>
-                <a href="javascript:void(0)" class="ud-feature-link">
-                  Learn More
-                </a>
               </div>
             </div>
           </div>
@@ -78,9 +69,6 @@
                   Our monitors alarms throughout New Zealand from our high security Central Alarm Monitoring station.
                   We have invested heavily in back up systems for power and telecommunications to ensure continued service in any event.
                 </p>
-                <a href="javascript:void(0)" class="ud-feature-link">
-                  Learn More
-                </a>
               </div>
             </div>
           </div>
