@@ -27,7 +27,7 @@
       <div class="row">
           <div class="col">
             <div class="ud-section-title" style="width: auto;">
-              <h2>Who are the people keeping you safe?</h2>
+              <h2>Who are these people keeping you safe?</h2>
               <p>
               Our security personnel are recruited and trained against a carefully designed range of core competencies. Each person undergoes a comprehensive selection process, which may include police checks, literacy and numeracy testing, reference checking and probity clearance.
               </p>
