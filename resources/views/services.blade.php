@@ -9,8 +9,7 @@
               <span>Eminent Vision</span>
               <h2>Our Services</h2>
               <p>
-              Our sole objective is to provide better trained, more engaged and more responsive patrol and site personnel.
-              Each of our team members has a sense of personal responsibility as well as leadership support that enables them to remain calm, secure and effective in all situations.
+                Our main goal is to provide patrol and site staff that are better trained, more engaged, and more responsive. Each member of our team has a strong feeling of personal responsibility as well as leadership support, allowing them to stay calm, secure, and effective in any situation.
               </p>
             </div>
           </div>
@@ -19,13 +18,12 @@
           <div class="col-xl-3 col-lg-3 col-sm-6">
             <div class="ud-single-feature wow fadeInUp" data-wow-delay=".1s">
               <div class="ud-feature-icon">
-                <i class="lni lni-timer"></i>
+                <i class="lni lni-alarm-clock"></i>
               </div>
               <div class="ud-feature-content">
                 <h3 class="ud-feature-title">24x7 Hour Guard Site</h3>
                 <p class="ud-feature-desc">
-                Round-the-clock peace of mind with site trained, industry experienced personnel totally focused on your security at your location.
-                Formalised shift transitions logged via Control Centre.
+                  Our 24x7 hour guard services provide round-the-clock protection for your site. With highly trained security guards, we ensure constant surveillance and peace of mind.
                 </p>
               </div>
             </div>
@@ -38,8 +36,7 @@
               <div class="ud-feature-content">
                 <h3 class="ud-feature-title">Events</h3>
                 <p class="ud-feature-desc">
-                Nobody wants to feel security is ‘breathing down their neck’ at major events or attractions.
-                Our team leaders ensure every rostered member on duty respects the unique dynamic of major entertainment events.
+                  When it comes to event security, trust Eminent Vision. Our experienced security team will ensure the safety of your event, providing a secure environment for attendees and peace of mind for organizers.
                 </p>
               </div>
             </div>
@@ -52,9 +49,7 @@
               <div class="ud-feature-content">
                 <h3 class="ud-feature-title">Area Petrol</h3>
                 <p class="ud-feature-desc">
-                A unique precinct focused patrols provide unparalleled response performance and consistent visibility.
-                Always on hand; always in their dedicated area; always ready to react.
-                </p>
+                  Ensure the safety of your area with our reliable petrol insecurity services. Our trained professionals will patrol and monitor the vicinity, providing enhanced security and peace of mind.                </p>
               </div>
             </div>
           </div>
@@ -66,8 +61,20 @@
               <div class="ud-feature-content">
                 <h3 class="ud-feature-title">Alarm Monitoring</h3>
                 <p class="ud-feature-desc">
-                  Our monitors alarms throughout New Zealand from our high security Central Alarm Monitoring station.
-                  We have invested heavily in back up systems for power and telecommunications to ensure continued service in any event.
+                  With our comprehensive security monitoring services, we keep a vigilant eye on your premises 24/7. Our advanced surveillance technologies and skilled personnel ensure prompt response and optimal protection for your security needs.
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="col-xl-3 col-lg-3 col-sm-6">
+            <div class="ud-single-feature wow fadeInUp" data-wow-delay=".25s">
+              <div class="ud-feature-icon">
+                <i class="lni lni-lock-alt"></i>
+              </div>
+              <div class="ud-feature-content">
+                <h3 class="ud-feature-title">Valuable Transfer</h3>
+                <p class="ud-feature-desc">
+                  Secure your valuable transfers with our trusted security services. Our experienced team ensures the safe and confidential transportation of high-value assets, providing you with peace of mind throughout the process.
                 </p>
               </div>
             </div>

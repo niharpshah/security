@@ -113,42 +113,32 @@
 
             <div class="col-xl-2 col-lg-2 col-md-6 col-sm-6">
               <div class="ud-widget">
-                <h6 class="ud-widget-title"><a href="{{ url('/') }}">Home</a></h6>
-                <h6 class="ud-widget-title"><a href="{{ url('/about') }}">About Us</a></h6>
-                <!-- <ul class="ud-widget-links">
+                <ul class="ud-widget-links">
                   <li>
-                    <a href="javascript:void(0)">Home</a>
+                    <a href="{{ url('/') }}">Home</a>
                   </li>
                   <li>
-                    <a href="javascript:void(0)">Features</a>
+                    <a href="{{ url('/about') }}">About</a>
                   </li>
                   <li>
-                    <a href="javascript:void(0)">About</a>
+                    <a href="{{ url('/services') }}">Services</a>
                   </li>
-                  <li>
-                    <a href="javascript:void(0)">Testimonial</a>
-                  </li>
-                </ul> -->
+                </ul>
               </div>
             </div>
             <div class="col-xl-2 col-lg-3 col-md-6 col-sm-6">
               <div class="ud-widget">
-              <h6 class="ud-widget-title"><a href="{{ url('/services') }}">Services</a></h6>
-              <h6 class="ud-widget-title"><a href="{{ url('/contact') }}">Contact Us</a></h6>
-                <!-- <ul class="ud-widget-links">
+                <ul class="ud-widget-links">
                   <li>
-                    <a href="javascript:void(0)">How it works</a>
+                    <a href="{{ url('/review') }}">Testimonials</a>
                   </li>
                   <li>
-                    <a href="javascript:void(0)">Privacy policy</a>
+                    <a href="{{ url('/team') }}">Team</a>
                   </li>
                   <li>
-                    <a href="javascript:void(0)">Terms of service</a>
+                    <a href="{{ url('/contact') }}">Contact</a>
                   </li>
-                  <li>
-                    <a href="javascript:void(0)">Refund policy</a>
-                  </li>
-                </ul> -->
+                </ul>
               </div>
             </div>
           </div>
@@ -160,13 +150,10 @@
             <div class="col-md-8">
               <ul class="ud-footer-bottom-left">
                 <li>
-                  <a href="javascript:void(0)">Privacy policy</a>
+                  <a href="javascript:void(0)" data-bs-toggle="modal" data-bs-target="#modelPP">Privacy policy</a>
                 </li>
                 <li>
-                  <a href="javascript:void(0)">Support policy</a>
-                </li>
-                <li>
-                  <a href="javascript:void(0)">Terms of service</a>
+                  <a href="javascript:void(0)" data-bs-toggle="modal" data-bs-target="#modelTC">Terms of service</a>
                 </li>
               </ul>
             </div>
@@ -181,7 +168,7 @@
       </div>
     </footer>
     <!-- ====== Footer End ====== -->
-
+    
     <!-- ====== Back To Top Start ====== -->
     <a href="javascript:void(0)" class="back-to-top">
       <i class="lni lni-chevron-up"> </i>
