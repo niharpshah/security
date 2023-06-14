@@ -10,7 +10,7 @@
                 Want Security Services?
               </h1>
               <p class="ud-hero-desc">
-                Welcome to XYZ Securities. All solutions for your security requirments.
+                Welcome to Eminent Vision. All solutions for your security requirments.
               </p>
             </div>
           </div>
