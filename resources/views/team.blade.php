@@ -9,8 +9,7 @@
               <span>Our Team</span>
               <h2>Meet The Team</h2>
               <p>
-                There are many variations of passages of Lorem Ipsum available
-                but the majority have suffered alteration in some form.
+                Meet the exceptional individuals who make up our esteemed team at <strong>Eminent Vision</strong>. Our experts possess a wealth of experience and training in the security industry, ensuring your safety and satisfaction. With their dedication, professionalism, and commitment to excellence, they go above and beyond to provide the highest level of security services. Get acquainted with our remarkable team of security professionals today.
               </p>
             </div>
           </div>

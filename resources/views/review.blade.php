@@ -9,8 +9,7 @@
               <span>Testimonials</span>
               <h2>What our Customers Says</h2>
               <p>
-                There are many variations of passages of Lorem Ipsum available
-                but the majority have suffered alteration in some form.
+                Our customers rave about our exceptional security services. They praise our professional team, prompt response, and the peace of mind they experience knowing their safety is in capable hands.
               </p>
             </div>
           </div>

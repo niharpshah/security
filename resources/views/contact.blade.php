@@ -10,10 +10,12 @@
               <div class="ud-contact-title">
                 <span>CONTACT US</span>
                 <h2>
-                  Eminent Vision<br />
                   Let’s talk about <br />
                   Love to hear from you!
                 </h2>
+                <p>
+                  We're here to assist you with your security needs. For inquiries, quotes, or any questions you may have, please fill out the contact form below. Our knowledgeable team will promptly respond to your message and provide the information you require. We look forward to hearing from you! Get in touch with us today.
+                </p>
               </div>
               <div class="ud-contact-info-wrapper">
                 <div class="ud-single-info">
