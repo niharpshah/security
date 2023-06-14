@@ -6,7 +6,7 @@
         <div class="row">
           <div class="col-lg-12">
             <div class="ud-section-title">
-              <span>XYZ Securities</span>
+              <span>Eminent Vision</span>
               <h2>Our Services</h2>
               <p>
               Our sole objective is to provide better trained, more engaged and more responsive patrol and site personnel.
@@ -64,7 +64,7 @@
                 <i class="lni lni-display-alt"></i>
               </div>
               <div class="ud-feature-content">
-                <h3 class="ud-feature-title">Monitoring</h3>
+                <h3 class="ud-feature-title">Alarm Monitoring</h3>
                 <p class="ud-feature-desc">
                   Our monitors alarms throughout New Zealand from our high security Central Alarm Monitoring station.
                   We have invested heavily in back up systems for power and telecommunications to ensure continued service in any event.

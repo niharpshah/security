@@ -18,11 +18,18 @@ class SendemailController extends Controller
        
         $request->validate(
             [
-                // KEY should be the name of your Textbox
                 'txtName'=>'required',
-                'txtEmail'=>'required|email',
+                'txtEmail'=>'regex:/(.+)@(.+)\.(.+)/i',
                 'txtPhone'=>'required|numeric',
                 'txtMsg'=>'required',
+            ],
+            [
+                'txtName.required'=>'Please Enter Your Name.',
+                'txtEmail.regex'=>'Please Enter Your Valid Email.',
+                'txtPhone.required'=>'Please Enter Your Contact Number.',
+                'txtPhone.numeric'=>'Please Enter Numbers Only.',
+                'txtPhone.max'=>'Please Valid Phone Number',
+                'txtMsg.required'=>'Please Enter Your Message Here.',   
             ]
         );
 

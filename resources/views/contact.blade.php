@@ -10,6 +10,7 @@
               <div class="ud-contact-title">
                 <span>CONTACT US</span>
                 <h2>
+                  Eminent Vision<br />
                   Let’s talk about <br />
                   Love to hear from you!
                 </h2>
@@ -55,7 +56,7 @@
                 </div>
                 <div class="ud-form-group">
                   <label for="email">Email*</label>
-                  <input type="email" name="txtEmail" id="txtEmail" placeholder="example@yourmail.com" value="{{old('txtEmail')}}"/>
+                  <input type="email" name="txtEmail" id="txtEmail" placeholder="example@example.com" value="{{old('txtEmail')}}"/>
                   <span class="text-danger">
                     @error('txtEmail')
                         {{$message}}
@@ -64,7 +65,7 @@
                 </div>
                 <div class="ud-form-group">
                   <label for="phone">Phone*</label>
-                  <input type="text" name="txtPhone" id="txtPhone" placeholder="0 XXX XXX XXX" value="{{old('txtPhone')}}"/>
+                  <input type="text" name="txtPhone" id="txtPhone" placeholder="Phone Number" maxlength="10" value="{{old('txtPhone')}}"/>
                   <span class="text-danger">
                     @error('txtPhone')
                         {{$message}}

@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>XYZ Securities</title>
+    <title>Eminent Vision</title>
 
     <!-- Primary Meta Tags -->
 <meta name="title" content="Play - Free Open Source HTML Bootstrap Template by UIdeck">
@@ -36,6 +36,12 @@
     <link rel="stylesheet" href="assets/css/animate.css" />
     <link rel="stylesheet" href="assets/css/lineicons.css" />
     <link rel="stylesheet" href="assets/css/ud-styles.css" />
+    <style>
+      .center {
+        text-align: center;
+        border: 3px solid black;
+      }
+      </style>
   </head>
   <body>
     <!-- ====== Header Start ====== -->
@@ -107,7 +113,7 @@
 
             <div class="col-xl-2 col-lg-2 col-md-6 col-sm-6">
               <div class="ud-widget">
-                <h6 class="ud-widget-title"><a href="{{ url('/about') }}">Home</a></h6>
+                <h6 class="ud-widget-title"><a href="{{ url('/') }}">Home</a></h6>
                 <h6 class="ud-widget-title"><a href="{{ url('/about') }}">About Us</a></h6>
                 <!-- <ul class="ud-widget-links">
                   <li>
