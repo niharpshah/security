@@ -51,7 +51,7 @@
           <div class="col-lg-12">
             <nav class="navbar navbar-expand-lg">
               <a class="navbar-brand" href="{{ url('/') }}">
-                <img src="assets/images/logo/logo-4.svg" alt="Logo" width="157" height="55"/>
+                <img src="assets/images/logo/logo.svg" alt="Logo" width="157" height="55"/>
               </a>
               <button class="navbar-toggler">
                 <span class="toggler-icon"> </span>
@@ -106,7 +106,7 @@
             <div class="col-xl-3 col-lg-4 col-md-6">
               <div class="ud-widget">
                 <a href="{{ url('/') }}" class="ud-footer-logo">
-                  <img src="assets/images/logo/logo-5.svg" alt="logo" />
+                  <img src="assets/images/logo/logo-2.svg" alt="logo" />
                 </a>
               </div>
             </div>
