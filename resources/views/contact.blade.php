@@ -24,7 +24,8 @@
                   </div>
                   <div class="ud-info-meta">
                     <h5>Our Location</h5>
-                    <p>Royal Oak, Auckland</p>
+                    <p>31A Marydale Drive, Mount Roskill, Auckland
+                      1041</p>
                   </div>
                 </div>
                 <div class="ud-single-info">
@@ -33,8 +34,7 @@
                   </div>
                   <div class="ud-info-meta">
                     <h5>How Can We Help?</h5>
-                    <p>info@security.com</p>
-                    <p>contact@security.com</p>
+                    <p>accounts@eminentvision.co.nz</p>
                   </div>
                 </div>
               </div>

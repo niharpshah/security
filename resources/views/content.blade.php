@@ -193,7 +193,7 @@ table{
 	margin: 0;
 }
 .logo h1 a{
-	color: #30e3ca;
+	color: #3056D3;
 	font-size: 24px;
 	font-weight: 700;
 	font-family: 'Lato', sans-serif;
@@ -332,7 +332,7 @@ ul.social li{
           	<table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
           		<tr>
           			<td class="logo" style="text-align: center;">
-			            {{-- <h1><a href="{{url('/')}}"><img src="assets/images/logo/logo-2.svg" alt="Logo" />&nbsp;&nbsp;Eminent Vision</a></h1> --}}
+			            {{-- <h1><a href="{{url('/')}}"><img src="assets/images/logo/logo-4.png" height="55" width="157" alt="Logo" /></a></h1> --}}
 			            <h1><a href="{{url('/')}}">Eminent Vision</a></h1>
 			          </td>
           		</tr>

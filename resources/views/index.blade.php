@@ -51,7 +51,7 @@
           <div class="col-lg-12">
             <nav class="navbar navbar-expand-lg">
               <a class="navbar-brand" href="{{ url('/') }}">
-                <img src="assets/images/logo/logo-2.svg" alt="Logo" />
+                <img src="assets/images/logo/logo-4.svg" alt="Logo" width="157" height="55"/>
               </a>
               <button class="navbar-toggler">
                 <span class="toggler-icon"> </span>
@@ -106,7 +106,7 @@
             <div class="col-xl-3 col-lg-4 col-md-6">
               <div class="ud-widget">
                 <a href="{{ url('/') }}" class="ud-footer-logo">
-                  <img src="assets/images/logo/logo.svg" alt="logo" />
+                  <img src="assets/images/logo/logo-5.svg" alt="logo" />
                 </a>
               </div>
             </div>
@@ -160,7 +160,7 @@
             <div class="col-md-4">
               <p class="ud-footer-bottom-right">
                 Designed and Developed by
-                <a href="https://uideck.com" rel="nofollow">UIdeck</a>
+                <a href="#" rel="nofollow">N&J Deveopers</a>
               </p>
             </div>
           </div>
